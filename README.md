@@ -1,3 +1,3 @@
 # Language-Translator
 
-In this project we build a RNN sequence-to-sequence learning in Keras to translate a english language to a german language. 
+In this project, the deep learning concept - RNN sequence-to-sequence learning in Keras is used. In this program language conversion is used to translate english language to german language.
